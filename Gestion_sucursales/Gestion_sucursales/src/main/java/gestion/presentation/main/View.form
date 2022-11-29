@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="gestion.presentation.main.View">
+  <tabbedpane id="e5545" binding="tabbedPane">
+    <constraints>
+      <xy x="17" y="39" width="563" height="355"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children/>
+  </tabbedpane>
+</form>
