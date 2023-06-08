@@ -1,2 +1,2 @@
 # Brach office
- Gestion de sucursales
+ Sistema de sucursales
